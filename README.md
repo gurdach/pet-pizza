@@ -2,6 +2,8 @@
 
 Order pizza in 2 clicks 🙃
 
+<a href="https://pet-pizza.netlify.app" target="_blank">Demo Site</a>
+
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/19814545/169787606-e837b31d-9b17-4279-af95-0f5fe5a96f7d.png">
 
 🏗  TypeScript, React, Redux Toolkit, SASS, lodash, React Router
