@@ -1,4 +1,3 @@
-import { useDispatch } from 'react-redux';
 import axios from "axios";
 import { Pizza, SearchPizzaParams} from "./types"
 import pickBy from "lodash/pickBy";

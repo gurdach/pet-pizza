@@ -27,7 +27,7 @@ const FullPizza: React.FC = () => {
     }
 
     fetchPizza();
-  }, []);
+  });
 
   if (!pizza) {
     return <>Загрузка...</>;
