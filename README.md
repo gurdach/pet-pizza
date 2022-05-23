@@ -2,7 +2,7 @@
 
 Order pizza in 2 clicks 🙃
 
-![image](https://user-images.githubusercontent.com/19814545/169785677-9e88d14b-e416-4b65-9604-9ac224fea938.png)
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/19814545/169787606-e837b31d-9b17-4279-af95-0f5fe5a96f7d.png">
 
 🏗  TypeScript, React, Redux Toolkit, SASS, lodash, React Router
 
