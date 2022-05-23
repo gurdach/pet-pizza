@@ -1,3 +1,12 @@
+# 🍕 PET-PIZZA 🍕
+
+Order pizza in 2 clicks 🙃
+
+![image](https://user-images.githubusercontent.com/19814545/169785677-9e88d14b-e416-4b65-9604-9ac224fea938.png)
+
+🏗  TypeScript, React, Redux Toolkit
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
