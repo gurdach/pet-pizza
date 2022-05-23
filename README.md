@@ -4,7 +4,7 @@ Order pizza in 2 clicks 🙃
 
 ![image](https://user-images.githubusercontent.com/19814545/169785677-9e88d14b-e416-4b65-9604-9ac224fea938.png)
 
-🏗  TypeScript, React, Redux Toolkit
+🏗  TypeScript, React, Redux Toolkit, SASS, lodash, React Router
 
 
 # Getting Started with Create React App
